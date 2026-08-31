@@ -3,4 +3,4 @@ uvicorn
 python-multipart
 opencv-python-headless
 supervision
-inference
+inference-cpu
